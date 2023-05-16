@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey there! 👋
+#### My Name is Ashish and currently I'm pursuing my graduation from IIT Kharagpur. The day I'm writing this Readme is the starting of my Open Source carrer.
 <!--
 **ashishakkumar/ashishakkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+https://github.com/ashishakkumar/ashishakkumar/assets/86063242/19ccb453-712a-4cac-8a7d-e5dc7499bf47
+
+
+
+
+
+
