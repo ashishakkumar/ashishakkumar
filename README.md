@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Untitled_AdobeExpress (1)](https://github.com/ashishakkumar/ashishakkumar/assets/86063242/651b79ab-e922-4353-b006-c1b211b82a67)
 
-https://github.com/ashishakkumar/ashishakkumar/assets/86063242/19ccb453-712a-4cac-8a7d-e5dc7499bf47
+
 
 
 
