@@ -1,15 +1,15 @@
 # Hey there! 👋
 
-My name is Ashish and I'm currently pursuing my graduation from IIT Kharagpur.I'm super enthusiastic about embarking on my open-source journey!
+My name is Ashish and I'm currently pursuing my Dual Degree from IIT Kharagpur.I'm super enthusiastic about my open-source journey!
 
 ## About Me 🚀
 
-I am a passionate individual with a keen interest in technology and open-source development. I love exploring new ideas, learning, and collaborating with others. Currently, I am focused on honing my skills and expanding my knowledge in various domains.
+Giving more priority to Why than How 
 
 ## 🌱 I’m currently learning about 📚
 
-- LLMs 
-- Generative AI
+- LLMs
+- RAG
 
 ## Let's Collaborate 💡
 
