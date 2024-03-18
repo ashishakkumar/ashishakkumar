@@ -9,7 +9,7 @@ Giving more priority to Why than How
 ## 🌱 I’m currently learning about 📚
 
 - LLMs
-- RAG
+- Retrieval Augumented Generation
 
 ## Let's Collaborate 💡
 
