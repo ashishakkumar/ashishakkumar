@@ -1,28 +1,23 @@
-# Hey there! 👋
+# Hey there 👋 ! This is Ashish
+### I'm pursuing Dual Degree (Masters in AI and ML and Bachelors and Biochemical Enginneering & Biotechnology) from IIT Kharagpur
 
-My name is Ashish and I'm currently pursuing my Masters (Dual Degree) in AI and ML from IIT Kharagpur.
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-iitkgp/)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1DA1F2?style=flat-square&logo=Kaggle&logoColor=white)]((https://www.kaggle.com/ashishkumarak))
+[![Email Badge](https://img.shields.io/badge/-Email-DB4437?style=flat-square&logo=Gmail&logoColor=white)](mailto:ashish28082002.ak0@gmail.com)
 
 ## About Me 🚀
 
 Giving more priority to Why than How 
 
-## 🌱 I’m currently learning about 📚
+## 🌱 Currently learning about 📚
 
-- LLMs
-- Retrieval Augumented Generation
+- Fine tuning aspects of the Language Models
+- Information Retrieval with the taste of LLMs [RAG]
 
-## Let's Collaborate 💡
+<!-- ## GitHub Stats:
 
-I'm open to collaborating on exciting open-source projects in the NLP domain and contributing to meaningful initiatives.
-
-
-
-
-
-
-
-
-
-
-
-
+<p>
+   <img width="766em" src="https://github-profile-trophy.vercel.app/?username=ashishkumarak&no-frame=true&row=1&column=7" /> <br> -->
+<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ashishkumarak&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumarak&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
+</p> -->
