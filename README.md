@@ -14,12 +14,12 @@ Giving more priority to Why than How
 - Fine tuning aspects of the Language Models
 - Information Retrieval with the taste of LLMs [RAG]
 
-## GitHub Stats:
-<!-- 
+<!--  ## GitHub Stats:
+
 <p>
-   <img width="766em" src="https://github-profile-trophy.vercel.app/?username=ashishkumarak&no-frame=true&row=1&column=7" /> <br> -->
-<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ashishkumarak&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs" />
+   <img width="766em" src="https://github-profile-trophy.vercel.app/?username=ashishkumarak&no-frame=true&row=1&column=7" /> <br>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ashishkumarak&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumarak&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p> -->
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumarak)
+<!--  [![](https://github-readme-stats.vercel.app/api/top-langs?username=ashishkumarak&hide=html,scss,stylus,blade,jupyter%20notebook&theme=algolia&show_icons=true)](https://github.com/ashishkumarak) -->
