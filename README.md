@@ -4,6 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-iitkgp/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1DA1F2?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ashishkumarak)
 [![Email Badge](https://img.shields.io/badge/-Email-DB4437?style=flat-square&logo=Gmail&logoColor=white)](mailto:ashish28082002.ak0@gmail.com)
+[![HuggingFace Badge](https://img.shields.io/badge/-HuggingFace-FFC300?style=flat-square&logo=HuggingFace&logoColor=white)](https://huggingface.co/ashishkgpian)
 
 ## About Me 🚀
 
