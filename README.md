@@ -24,3 +24,7 @@ Giving more priority to Why than How
 </p> -->
 
 <!--  [![](https://github-readme-stats.vercel.app/api/top-langs?username=ashishkumarak&hide=html,scss,stylus,blade,jupyter%20notebook&theme=algolia&show_icons=true)](https://github.com/ashishkumarak) -->
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ashak&label=Profile%20Visits&color=6&icon=0&pretty=true" />
+</a>
