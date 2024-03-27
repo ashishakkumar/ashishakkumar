@@ -1,4 +1,4 @@
-# Hey there 👋 ! This is Ashish
+# Hey there 👋 ! I am Ashish
 ### I'm pursuing Dual Degree (Masters in AI and ML and Bachelors and Biochemical Enginneering & Biotechnology) from IIT Kharagpur
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-iitkgp/)
