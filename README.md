@@ -15,13 +15,15 @@ Giving more priority to Why than How
 - Fine tuning aspects of the Language Models
 - Information Retrieval with the taste of LLMs [RAG]
 <br>
+
+
+
+ <a href="https://github.com/ashishakkumar"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishakkumar&theme=dark&hide=html,css,cmake&layout=compact&langs_count=4&bg_color=111010&hide_title=true"></a>
+</p>
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ashak&label=Profile%20Visits&color=6&icon=0&pretty=true" />
 </a>
-
-
- <a href="https://github.com/ashishakkumar"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishakkumar&theme=dark&hide=html,css,cmake&layout=compact&langs_count=4&bg_color=111010&hide_title=true"></a>
-</p>
 
 ![My GitHub Snake Game](https://raw.githubusercontent.com/ashishakkumar/ashishakkumar/output/github-snake.svg)
 
