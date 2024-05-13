@@ -23,6 +23,8 @@ Giving more priority to Why than How
  <a href="https://github.com/ashishakkumar"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishakkumar&theme=dark&hide=html,css,cmake&layout=compact&langs_count=4&bg_color=111010&hide_title=true"></a>
 </p>
 
+![My GitHub Snake Game](https://raw.githubusercontent.com/ashishkumarak/snake-game/main/dist/github-snake.svg)
+
 
 <!--<p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=ashishakkumar&color=grey">
